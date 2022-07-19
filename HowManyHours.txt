@@ -1,0 +1,40 @@
+Barry Sanders
+12
+48
+B
+Brett Farve
+6
+18
+C
+Russel Wilson
+18
+90
+A
+David Carr
+3
+6
+D
+Calvin Johnson
+9
+0
+F
+Dez Bryant
+12
+36
+C
+Amari Cooper
+12
+48
+B
+Peyton Manning
+18
+36
+D
+Marvin Harrison
+18
+90
+A
+Derrick Henry
+6
+24
+B
